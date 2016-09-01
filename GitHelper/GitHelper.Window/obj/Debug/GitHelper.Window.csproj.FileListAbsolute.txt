@@ -1,0 +1,1 @@
+Z:\GIT\GIT-Helper\GitHelper\GitHelper.Window\bin\Debug\GitHelper.Window.exe.config
